@@ -8,3 +8,7 @@ pip3
 
 - pip3 freeze > requirements.txt
 - pip3 install -r  requirements.txt
+
+decimal это уточнение чисел
+round up это увеличение числа в большую сторону
+
